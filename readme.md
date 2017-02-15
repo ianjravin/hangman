@@ -1,5 +1,5 @@
 # Hangman in Ruby
-By [Leandra Tejedor](https://github.com/ltejedor)
+By [Ian Macharia](https://github.com/ianjravin)
 
 Think you can defeat the all powerful computer in hangman?
 
